@@ -8,29 +8,23 @@
 		{
 			"name":"Scene",
 			"nodes":[
-				3
+				2
 			]
 		}
 	],
 	"nodes":[
 		{
-			"name":"GN Instance"
+			"name":"GaussianSplatting.001"
 		},
 		{
 			"children":[
 				0
 			],
-			"name":"GaussianSplatting.001"
-		},
-		{
-			"children":[
-				1
-			],
 			"name":"Collection"
 		},
 		{
 			"children":[
-				2
+				1
 			],
 			"name":"Scene Collection"
 		}
