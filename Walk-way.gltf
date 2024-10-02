@@ -1,0 +1,38 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v4.2.69",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"name":"Scene",
+			"nodes":[
+				3
+			]
+		}
+	],
+	"nodes":[
+		{
+			"name":"GN Instance"
+		},
+		{
+			"children":[
+				0
+			],
+			"name":"GaussianSplatting.001"
+		},
+		{
+			"children":[
+				1
+			],
+			"name":"Collection"
+		},
+		{
+			"children":[
+				2
+			],
+			"name":"Scene Collection"
+		}
+	]
+}
